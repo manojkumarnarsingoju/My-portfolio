@@ -1,0 +1,39 @@
+.title {
+    background: linear-gradient(300deg, #381eff, hsl(180, 86%, 36%), #abb3fe);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+  .tit{
+    height: 10px;
+    width: 10px;
+    background-color: white;
+  }
+  .myskills{
+    background: linear-gradient(300deg, #ffffff, hsl(180, 54%, 85%), #b3d6ff);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+  .flood{
+    background: linear-gradient(300deg, #44abff, hsl(242, 92%, 64%), #b3d6ff);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+    padding: 10px;
+  }
+  .biooil{
+    background: linear-gradient(300deg, #7dfd6c, hsl(104, 100%, 98%), #aaffbc);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+    padding: 10px;
+  }
+  .nitw{
+    background: linear-gradient(300deg, #ff9292, hsl(180, 48%, 35%), #ffa7e6);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+    padding: 10px;
+  }
+  .foot{
+    background: linear-gradient(300deg, #381eff, hsl(180, 86%, 36%), #abb3fe);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+    padding: 50px
+  }
