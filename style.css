@@ -19,6 +19,12 @@
     animation: gradient-animation 18s ease infinite;
     padding: 10px;
   }
+  .foodproject{
+    background: linear-gradient(300deg, #9d7d71, hsl(40, 93%, 70%), #f75611);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+    padding: 10px;
+  }
   .biooil{
     background: linear-gradient(300deg, #7dfd6c, hsl(104, 100%, 98%), #aaffbc);
     background-size: 180% 180%;
@@ -26,7 +32,7 @@
     padding: 10px;
   }
   .nitw{
-    background: linear-gradient(300deg, #ff9292, hsl(180, 48%, 35%), #ffa7e6);
+    background: linear-gradient(300deg, #ff9292, hsl(180, 48%, 35%), #6865f0);
     background-size: 180% 180%;
     animation: gradient-animation 18s ease infinite;
     padding: 10px;
@@ -36,4 +42,10 @@
     background-size: 180% 180%;
     animation: gradient-animation 18s ease infinite;
     padding: 50px
+  }
+  .analyst{
+    background: linear-gradient(300deg, #b2f2c4, hsl(180, 52%, 38%), #c7ca85);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+    padding: 10px;
   }
